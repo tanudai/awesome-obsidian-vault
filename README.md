@@ -54,7 +54,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 </style>
 -->
 
-## Vaults and websites grouped by topic (54)
+## Vaults and websites grouped by topic (53)
 
 > [!TIP]
 > ✨ marks a standout pick — a particularly polished, complete, or popular vault.
@@ -84,7 +84,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
   </tbody>
   <tbody>
     <tr class="section-row">
-      <th rowspan="10" class="category-cell">Documentation &amp; Knowledge</th>
+      <th rowspan="9" class="category-cell">Documentation &amp; Knowledge</th>
       <td>Blue Book — lyz-code</td>
       <td><a href="https://github.com/lyz-code/blue-book">vault</a> / <a href="https://lyz-code.github.io/blue-book/">web</a></td>
       <td></td>
@@ -93,7 +93,6 @@ A curated list of awesome resources, templates, guides for developers, digital g
     <tr><td>Digital Garden Docs — oleeskild</td><td><a href="https://github.com/oleeskild/digitalgardendocs">vault</a> / <a href="https://dg-docs.ole.dev/">web</a></td><td></td></tr>
     <tr><td>Documentation — Rico Sta. Cruz</td><td><a href="https://github.com/rstacruz/cheatsheets/tree/master#documentation">vault</a> / <a href="https://devhints.io/">web</a></td><td></td></tr>
     <tr><td>Gatekeeperwiki Game — Gravity Lagoon</td><td><a href="https://github.com/Mondrethos/gatekeeperwiki">vault</a> / <a href="https://www.gatekeeper.wiki/">web</a></td><td></td></tr>
-    <tr><td>Intersect — rknightuk</td><td><a href="https://github.com/rknightuk/intersect">vault</a> / <a href="https://intersect.rknight.me/">web</a></td><td></td></tr>
     <tr><td>Kepano Obsidian</td><td><a href="https://github.com/kepano/kepano-obsidian">vault</a> / <a href="https://stephango.com/vault">web</a></td><td>✨</td></tr>
     <tr><td>Obsidian Hub</td><td><a href="https://github.com/obsidian-community/obsidian-hub">vault</a> / <a href="https://publish.obsidian.md/hub/00+-+Start+here">web</a></td><td>✨</td></tr>
     <tr><td>Obsidian Icewind — Shervinsahba</td><td><a href="https://github.com/shervinsahba/obsidian-icewind">vault</a> / <a href="https://icewind.quest/">web</a></td><td>✨</td></tr>
